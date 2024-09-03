@@ -13,7 +13,7 @@ While you are **free to use the model for your own skates**, if you do appreciat
 
 The model in this repository is an improvement of an earlier prototype that is shown in this image. The roughness of the material is due to printing in polycarbonate which the creator do not recommend unless for the purpose of testing the fit of the model. 
 
-Improvements from this prototype included: fit, reduction in taper, change of placement of rear counter-bore hole to make installation easier, re-placement of dimple to suit new rear counter-bore hole, extending groove to improve accuracy of fit. Despite my best efforts, **I cannot guarentee a perfect fit.** Users may print in cheaper material for a test prior to printing in more expensive materials like nylon. 
+Improvements from this prototype included: fit, reduction in taper, change of placement of rear counter-bore hole to make installation easier, re-placement of dimple to suit new rear counter-bore hole, extending groove to improve accuracy of fit. Despite my best efforts, **I cannot guarentee a perfect fit.** Users may print in cheaper material for a test prior to printing in more expensive materials like nylon. If you require the model in a different size, you may need to scale it accordingly. 
 
 **Photo of earlier polycarbonate prototype**
 
@@ -23,7 +23,9 @@ Improvements from this prototype included: fit, reduction in taper, change of pl
 It is recommended that this model be printed in UHMW plastic or **Nylon (SLS/MJF PA-12)** for optimal performance and durability.
 
 ## Contributing
-If you require the model in a different size, you may need to scale it accordingly. Users who wish to print the model in a different size or material can contact the creator to request a STEP file. The STEP file can be provided to those who wish to contribute improvements, with the understanding that any enhancements made will be allowed to be committed back to this repository.
+Users who wish to modify the model (as opposed to simple scaling) in a different size can contact the creator to request a STEP file. 
+
+The STEP file can be provided to those who wish to contribute improvements, with the understanding that any enhancements made will be allowed to be committed back to this repository to benefit others.
 
 ## No Liability Statement
 The creator of this 3D model makes no warranties or representations about the accuracy, completeness, or suitability of this model for any purpose. The use of this model is entirely at the user's own risk. The creator shall not be held liable for any damages, breakages, injuries, or any other incidents that occur from the use, misuse, or modification of this model. 
