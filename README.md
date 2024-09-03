@@ -11,9 +11,17 @@ A commercial solution is available. However, for some regions custom 3DP may be 
 
 While you are free to use the model for your own skates, if you do appreciate this work, please consider buying me a coffee on my [Ko-fi](https://ko-fi.com/workdayrelease). Your support is greatly appreciated!
 
+### Earlier prototype:
+**Photo of polycarbonate prototype**
+
+The model in this repository is an improvement of an earlier prototype that is shown in this image. The roughness of the material is due to printing in polycarbonate which the creator do not recommend unless for the purpose of testing the fit of the model. 
+
+Improvements from this prototype included: fit, reduction in taper, change of placement of rear counter-bore hole to make installation easier, re-placement of dimple to suit new rear counter-bore hole, extending groove to improve accuracy of fit. Despite my best efforts, **I cannot guarentee a perfect fit.** Users may print in cheaper material for a test prior to printing in more expensive materials like nylon. 
+
+![Preview of sliders](images/sample_photo.jpg)
 
 ## Material Recommendation
-It is recommended that this model be printed in UHMW plastic or **Nylon (SLS/MJF PA-12)** for optimal performance.
+It is recommended that this model be printed in UHMW plastic or **Nylon (SLS/MJF PA-12)** for optimal performance and durability.
 
 ## Contributing
 If you require the model in a different size, you may need to scale it accordingly. Users who wish to print the model in a different size or material can contact the creator to request a STEP file. The STEP file can be provided to those who wish to contribute improvements, with the understanding that any enhancements made will be allowed to be committed back to this repository.
@@ -32,9 +40,3 @@ This license requires that reusers give credit to the creator. It allows reusers
 Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
 - SA: Adaptations must be shared under the same terms.
 
-### Other images:
-**Photo of polycarbonate prototype**
-
-Improvements from this prototype include fit, reduction in taper, change of placement of rear counter-bore hole to make installation easier, re-placement of dimple to suit new rear counter-bore hole. 
-
-![Preview of sliders](images/sample_photo.jpg)
