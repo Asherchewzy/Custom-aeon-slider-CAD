@@ -34,6 +34,6 @@ Noncommercial means not primarily intended for or directed towards commercial ad
 ### Other images:
 **Photo of polycarbonate prototype**
 
-Improvements from this prototype include fit, change of placement of rear counter-bore hole to make installation easier, re-placement of dimple to suit new rear counter-bore hole. 
+Improvements from this prototype include fit, reduction in taper, change of placement of rear counter-bore hole to make installation easier, re-placement of dimple to suit new rear counter-bore hole. 
 
 ![Preview of sliders](images/sample_photo.jpg)
