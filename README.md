@@ -12,11 +12,12 @@ A commercial solution is available. However, for some regions custom 3DP may be 
 While you are free to use the model for your own skates, if you do appreciate this work, please consider buying me a coffee on my [Ko-fi](https://ko-fi.com/workdayrelease). Your support is greatly appreciated!
 
 ### Earlier prototype:
-**Photo of polycarbonate prototype**
 
 The model in this repository is an improvement of an earlier prototype that is shown in this image. The roughness of the material is due to printing in polycarbonate which the creator do not recommend unless for the purpose of testing the fit of the model. 
 
 Improvements from this prototype included: fit, reduction in taper, change of placement of rear counter-bore hole to make installation easier, re-placement of dimple to suit new rear counter-bore hole, extending groove to improve accuracy of fit. Despite my best efforts, **I cannot guarentee a perfect fit.** Users may print in cheaper material for a test prior to printing in more expensive materials like nylon. 
+
+**Photo of earlier polycarbonate prototype**
 
 ![Preview of sliders](images/sample_photo.jpg)
 
