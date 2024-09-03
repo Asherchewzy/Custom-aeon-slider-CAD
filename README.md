@@ -41,3 +41,8 @@ This license requires that reusers give credit to the creator. It allows reusers
 Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
 - SA: Adaptations must be shared under the same terms.
 
+
+### Credit:
+Creator: asherchew.zy@gmail.com
+
+Special thanks for 3D printing prototype: auggie.teo@gmail.com
