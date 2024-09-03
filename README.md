@@ -1,6 +1,6 @@
 # Custom Aeon slider by Asher
 **STL file of CAD model for USD AEON size 41-42 for 3D printing.** 
-![Preview of sliders](images/sliders_v4.png)
+![Preview of sliders](images/sliders.png)
 
 ## Message from the Creator
 Download the zip file by clicking on the green "<> code" button or clone the repo. 
