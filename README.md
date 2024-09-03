@@ -3,7 +3,9 @@
 ![Preview of sliders](images/sliders_v4.png)
 
 ## Message from the Creator
-Hey fellow bladers, I hope this model will be handy for some of you. You can choose to print one side in a cheaper material to test it's fit if you like. I have printed earlier prototypes and made improvements on the fit as well as surface area of contact to improve speed of grinds.
+Download the zip file by clicking on the green "<> code" button or clone the repo. 
+
+You can choose to print one side in a cheaper material to test it's fit if you like. I have printed earlier prototypes and made improvements on the fit as well as surface area of contact to improve speed of grinds.
 
 For me, this is a passion project. I decided to challenge myself by learning a whole new skillset and a few softwares. 
 While you are free to use the model for your own skates, if you do appreciate this work, please consider buying me a coffee on my [Ko-fi](https://ko-fi.com/workdayrelease). Your support is greatly appreciated!
