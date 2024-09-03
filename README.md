@@ -9,7 +9,7 @@ You can choose to print one side in a cheaper material to test it's fit, if you 
 
 A commercial solution is available. However, for some regions custom 3DP may be a cheaper alternative. One may also wish to print a single side only. The contact area for a soul based grind is about 56.7% lesser when compared to a commercial solution, which means less friction and a faster grind. For me, this is a passion project. I decided to challenge myself by learning a whole new skillset and a few softwares. 
 
-While you are free to use the model for your own skates, if you do appreciate this work, please consider buying me a coffee on my [Ko-fi](https://ko-fi.com/workdayrelease). Your support is greatly appreciated!
+While you are **free to use the model for your own skates**, if you do appreciate this work, please consider buying me a coffee on my [Ko-fi](https://ko-fi.com/workdayrelease). Your support is greatly appreciated!
 
 ### Earlier prototype:
 
