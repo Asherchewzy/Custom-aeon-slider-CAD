@@ -1,5 +1,5 @@
 # Asher's Custom Slider
-STL file of CAD model for USD AEON size 41-42 for 3D printing. 
+**STL file of CAD model for USD AEON size 41-42 for 3D printing.** 
 ![Preview of sliders](images/sliders_v4.png)
 
 ## Message from the Creator
