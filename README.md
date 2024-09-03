@@ -3,8 +3,6 @@
 ![Preview of sliders](images/sliders.jpg)
 
 ## Message from the Creator
-Download the zip file by clicking on the green "<> code" button or clone the repo. 
-
 You can choose to print one side in a cheaper material to test it's fit, if you please. I have printed earlier prototypes and made improvements on the fit as well as surface area of contact to improve speed of grinds.
 
 A commercial solution is available. However, for some regions custom 3DP may be a cheaper alternative. One may also wish to print a single side only. The contact area for a soul based grind is about 56.7% lesser when compared to a commercial solution, which means less friction and a faster grind. For me, this is a passion project. I decided to challenge myself by learning a whole new skillset and a few softwares. 
