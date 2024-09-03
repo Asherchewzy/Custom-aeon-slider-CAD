@@ -11,7 +11,7 @@ For me, this is a passion project. I decided to challenge myself by learning a w
 While you are free to use the model for your own skates, if you do appreciate this work, please consider buying me a coffee on my [Ko-fi](https://ko-fi.com/workdayrelease). Your support is greatly appreciated!
 
 
-## Material Recommendation and 
+## Material Recommendation
 It is recommended that this model be printed in UHMW plastic or **Nylon (SLS/MJF PA-12)** for optimal performance.
 
 ## Contributing
