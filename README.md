@@ -10,7 +10,9 @@ While you are **free to use the model for your own skates**, if you do appreciat
 ![kofi](images/ko-fi.jpg)
 
 ## Commercial alternative
-A commercial solution is available. However, for some regions custom 3DP may be a cheaper alternative. One may also wish to print a single side only. The contact area for a soul based grind is about 56.7% lesser when compared to a commercial solution, which means less friction and a faster grind. For me, this is a passion project. I decided to challenge myself by learning a whole new skillset and a few softwares. 
+A commercial solution is available. However, for some regions custom 3DP may be a cheaper alternative. One may also wish to print a single side only. The contact area for a soul based grind is about 56.7% lesser when compared to a commercial solution, which in theory means less friction and a faster grind. However, this is in theory and the project makes no guarentee of being better than any commercial solutions out there.
+
+For me, this is a passion project. I decided to challenge myself by learning a whole new skillset and a few softwares. 
 
 ## Improvements
 The model in this repository is an improvement of an earlier prototype that is shown in this image. The roughness of the material is due to printing in polycarbonate which the creator **do not** recommend unless for the purpose of testing the fit of the model. 
