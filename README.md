@@ -7,10 +7,6 @@ A commercial solution is available. However, for some regions custom 3DP may be 
 
 While you are **free to use the model for your own skates**, if you do appreciate this work, please consider buying me a coffee on my [Ko-fi](https://ko-fi.com/workdayrelease). Your support is greatly appreciated!
 
-**1:1 scale print out**
-
-![Preview of sliders](images/sample_photo.jpg)
-
 ## Material Recommendation
 It is recommended that this model be printed in UHMW plastic or **Nylon (SLS/MJF PA-12)** for optimal performance and durability.
 
